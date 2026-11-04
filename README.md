@@ -121,4 +121,4 @@
 
 - 🌐 **Portfolio**: [portofolionaza.steamcraft.online](https://portofolionaza.steamcraft.online)
 - 💼 **LinkedIn**: [linkedin.com/in/nazafirman](https://www.linkedin.com/in/nazafirman)
-- 📧 **Email**: [firmansyah.naza@gmail.com](mailto:firmansyah.naza@gmail.com)
+- 📧 **Email**: [firmannaza307@gmail.com](mailto:firmannaza307@gmail.com)
