@@ -1,124 +1,116 @@
-<div align="center">
-
-# Hi there, I'm Muhammad Naza Firmansyah 👋
-### Data Science Student @ Universitas Negeri Surabaya (UNESA) & Full-Stack AI Engineer
-
-[![Live Portfolio](https://img.shields.io/badge/Live%20Portfolio-portofolionaza.steamcraft.online-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portofolionaza.steamcraft.online)
-[![SteamCraft](https://img.shields.io/badge/Platform-steamcraft.online-0284c7?style=for-the-badge&logo=react&logoColor=white)](https://steamcraft.online)
-[![PaperCraft AI](https://img.shields.io/badge/PaperCraft%20AI-scholar.steamcraft.online-8b5cf6?style=for-the-badge&logo=openai&logoColor=white)](https://scholar.steamcraft.online)
-[![SteamSim Lab](https://img.shields.io/badge/SteamSim%20Lab-sim.steamcraft.online-06b6d4?style=for-the-badge&logo=html5&logoColor=white)](https://sim.steamcraft.online)
-[![MakerCraft 3D](https://img.shields.io/badge/MakerCraft%203D-maker.steamcraft.online-ec4899?style=for-the-badge&logo=three.js&logoColor=white)](https://maker.steamcraft.online)
-[![SteamGeo](https://img.shields.io/badge/SteamGeo-geo.steamcraft.online-10b981?style=for-the-badge&logo=googlemaps&logoColor=white)](https://geo.steamcraft.online)
-[![SteamArena](https://img.shields.io/badge/SteamArena-arena.steamcraft.online-f59e0b?style=for-the-badge&logo=target&logoColor=white)](https://arena.steamcraft.online)
-[![VeriLab AI](https://img.shields.io/badge/VeriLab%20AI-verilab.steamcraft.online-14b8a6?style=for-the-badge&logo=fastapi&logoColor=white)](https://verilab.steamcraft.online)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nazafirman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazafirman)
+<h1 align="center">Hi, I'm Naza 👋</h1>
 
 <p align="center">
-  Passionate about <strong>Data Science</strong>, <strong>Statistical Metrology</strong>, <strong>Machine Learning / NLP Transformers</strong>, and <strong>Scalable Cloud Systems</strong>.<br>
-  Currently leading system architecture for multidisciplinary research ecosystems and automated AI verification engines.
+  <b>Data Science Student @ UNESA · Full-Stack AI Engineer · Applied ML &amp; Spatial Analytics</b>
+</p>
+
+<p align="center">
+  <a href="https://portofolionaza.steamcraft.online"><img src="https://img.shields.io/badge/Portfolio-steamcraft.online-6366F1?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:firmannaza307@gmail.com"><img src="https://img.shields.io/badge/Email-firmannaza307%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/nazafirman"><img src="https://img.shields.io/badge/LinkedIn-nazafirman-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/firmofi345"><img src="https://img.shields.io/badge/Instagram-%40firmofi345-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 ---
 
-</div>
+## 🧑‍💻 About Me
 
-## 🚀 Complete STEAM-Craft Production Ecosystem
+- 🎓 Data Science student at **Universitas Negeri Surabaya (UNESA)** building end-to-end **AI pipelines, scientific tools, and full-stack web platforms**
+- 💻 Daily drivers: **Python, TypeScript/JavaScript, R, SQL** — shipping APIs with **FastAPI** and interactive UIs with **React + Vite**
+- 🥈 **DIMAS TI Nasional Silver Medalist (Juara 2)** & **GEMASTIK XVIII Finalist** (*"This Me"* — BISINDO Sign Language Learning App)
+- 🔬 Researching **Indonesian NLP Transformers & Hybrid Stacking** (>88% Macro-F1 across 7 classes) and **Spatial Epidemiology (GWR)**
+- 📊 Coordinated field survey data collection of **1,050+ business entities** as a **BPS Field Surveyor**
+- 🌐 Lead architect of the [**STEAM-Craft Ecosystem**](https://steamcraft.online) & open-source packages for Indonesian NLP and supply-chain analytics
+- 🌏 Based in **Surabaya, Indonesia** · Reach me at [firmannaza307@gmail.com](mailto:firmannaza307@gmail.com)
 
-```
-┌────────────────────────────────────────────────────────────────────────────────┐
-│  🌐 STEAM-Craft Ecosystem Hub & Subdomains (Production Ready)                  │
-├────────────────────────────────────────────────────────────────────────────────┤
-│  • Main Portal:        https://steamcraft.online                               │
-│  • Research App:       https://app.steamcraft.online                           │
-│  • PaperCraft AI:      https://scholar.steamcraft.online                       │
-│  • SteamSim Lab:       https://sim.steamcraft.online                           │
-│  • MakerCraft 3D:      https://maker.steamcraft.online                         │
-│  • SteamGeo Intel:     https://geo.steamcraft.online                           │
-│  • SteamArena:         https://arena.steamcraft.online                         │
-│  • VeriLab AI Engine:  https://verilab.steamcraft.online                       │
-│  • Official Portfolio: https://portofolionaza.steamcraft.online                │
-└────────────────────────────────────────────────────────────────────────────────┘
-```
+## 🚀 Open Source & Featured Repositories
 
-### ⚛️ [STEAM-Craft Online](https://steamcraft.online)
-> **Multidisciplinary Research Collaboration & AI Evaluation Platform**
-- **Role**: *Lead Developer & System Architect*
-- **Live URLs**: [steamcraft.online](https://steamcraft.online) • [app.steamcraft.online](https://app.steamcraft.online)
-- **Source Code**: [`nazaa-arch/steamcraft`](https://github.com/nazaa-arch/steamcraft)
-- **Stack**: React 19, TypeScript, Vite, Tailwind CSS, Cloudflare, LiteSpeed, GitHub Actions CI/CD.
+A few public highlights below — see [all repositories](https://github.com/nazaa-arch?tab=repositories) or visit my [live portfolio](https://portofolionaza.steamcraft.online) for more.
 
-### 📝 [PaperCraft AI](https://scholar.steamcraft.online)
-> **Scientific Manuscript & IMRaD Structural Integrity Auditor**
-- **Role**: *Lead Developer & AI Architect*
-- **Live Platform**: [scholar.steamcraft.online](https://scholar.steamcraft.online)
-- **Source Code**: [`nazaa-arch/papercraft-ai`](https://github.com/nazaa-arch/papercraft-ai)
-- **Highlights**: Automated 7-parameter IMRaD structure audit, statistical claim verification ($p$-values, Chi-square), and SINTA/Scopus pre-flight rubric.
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**segara**](https://github.com/nazaa-arch/segara) | Coral reef thermal-stress early-warning system (NOAA CRW-style HotSpot & DHW, 12-byte telemetry QC, FastAPI + React/Leaflet dashboard) | Python · React |
+| [**Scor-py**](https://github.com/nazaa-arch/Scor-py) ⭐ 1 | Python library, CLI, and Streamlit *What-If* simulator implementing ASCM SCOR supply chain performance metrics | Python · Streamlit |
+| [**indoslang-nlp**](https://github.com/nazaa-arch/indoslang-nlp) | Fast, deterministic Python library for Indonesian social media slang, leetspeak, abbreviation, and elongation normalization | Python · NLP |
+| [**DBD-Jawa-Timur-2023-GWR**](https://github.com/nazaa-arch/DBD-Jawa-Timur-2023-GWR) | Geographically Weighted Regression (GWR) spatial modeling of Dengue incidence across 38 regencies/cities in East Java | R · Jupyter |
+| [**portofolio**](https://github.com/nazaa-arch/portofolio) | Interactive personal portfolio showcase ([portofolionaza.steamcraft.online](https://portofolionaza.steamcraft.online)) | HTML · CSS · JS |
 
-### 🌌 [SteamSim Lab](https://sim.steamcraft.online)
-> **Interactive In-Browser Virtual Science & Applied Mathematics Laboratory Studio**
-- **Role**: *Lead Developer & Simulation Engineer*
-- **Live Platform**: [sim.steamcraft.online](https://sim.steamcraft.online)
-- **Source Code**: [`nazaa-arch/steamsim-lab`](https://github.com/nazaa-arch/steamsim-lab)
-- **Highlights**: High-performance 60 FPS Canvas simulations: Quadratic Drag Ballistics, Damped Driven Resonance, Acid-Base Titration curves, and Double Pendulum Chaos Theory.
+<details>
+<summary><b>🌐 STEAM-Craft Production Ecosystem (Live Platforms)</b></summary>
 
-### 🎨 [MakerCraft 3D](https://maker.steamcraft.online)
-> **Mathematical Surfaces, Spatial Computing & 3D Fabrication Studio**
-- **Role**: *Lead Developer & 3D WebGL Architect*
-- **Live Platform**: [maker.steamcraft.online](https://maker.steamcraft.online)
-- **Source Code**: [`nazaa-arch/makercraft-3d`](https://github.com/nazaa-arch/makercraft-3d)
-- **Highlights**: Three.js WebGL GPU Studio: Torus Knots, Möbius Strip, Spherical Harmonics, and client-side `.OBJ` 3D model exporter for 3D printing.
+| Platform | Focus | Live URL |
+|----------|-------|----------|
+| **STEAM-Craft Online** | Multidisciplinary research & AI evaluation hub | [steamcraft.online](https://steamcraft.online) |
+| **PaperCraft AI** | Scientific manuscript & IMRaD structural integrity auditor | [scholar.steamcraft.online](https://scholar.steamcraft.online) |
+| **SteamSim Lab** | 60 FPS in-browser physics & applied mathematics simulations | [sim.steamcraft.online](https://sim.steamcraft.online) |
+| **MakerCraft 3D** | WebGL parametric surfaces & 3D fabrication studio | [maker.steamcraft.online](https://maker.steamcraft.online) |
+| **SteamGeo Intelligence** | Spatial data science & climate early-warning GIS | [geo.steamcraft.online](https://geo.steamcraft.online) |
+| **SteamArena** | STEAM innovation hackathon & gamified peer-review arena | [arena.steamcraft.online](https://arena.steamcraft.online) |
+| **VeriLab AI** | Scientific reproducibility & laboratory data integrity service | [verilab.steamcraft.online](https://verilab.steamcraft.online) |
+| **WAYANG C4ISR** | Adaptive IT/OT cyber deception & forensics dashboard | [cyber.steamcraft.online](https://cyber.steamcraft.online) |
 
-### 🗺️ [SteamGeo Intelligence](https://geo.steamcraft.online)
-> **Spatial Data Science & Climate Early-Warning GIS Jawa Timur**
-- **Role**: *Lead Developer & Spatial Data Scientist*
-- **Live Platform**: [geo.steamcraft.online](https://geo.steamcraft.online)
-- **Source Code**: [`nazaa-arch/steamgeo-intelligence`](https://github.com/nazaa-arch/steamgeo-intelligence)
-- **Highlights**: Geographically Weighted Regression (GWR), Global Moran's I & LISA Spatial Autocorrelation, and Climate/Dengue Early-Warning telemetry across 38 East Java regencies.
+</details>
 
-### 🏆 [SteamArena](https://arena.steamcraft.online)
-> **Competitive STEAM Innovation Hackathon & Gamified Peer-Review Arena**
-- **Role**: *Lead Developer & Fullstack Engineer*
-- **Live Platform**: [arena.steamcraft.online](https://arena.steamcraft.online)
-- **Source Code**: [`nazaa-arch/steam-arena`](https://github.com/nazaa-arch/steam-arena)
-- **Highlights**: Real-time 5-axis STEAM Radar Matrix, gamified jury scoring engine, dynamic track filtering, and team innovation leaderboard.
+## 🛠️ Tech Stack
 
-### 🔬 [VeriLab AI (v1.0.0 MAX)](https://verilab.steamcraft.online)
-> **Scientific Reproducibility & Laboratory Data Integrity Microservice**
-- **Role**: *Creator & Lead AI Engineer*
-- **Live Platform**: [verilab.steamcraft.online](https://verilab.steamcraft.online)
-- **API Docs**: [verilab-api.onrender.com/docs](https://verilab-api.onrender.com/docs)
-- **Source Code**: [`nazaa-arch/VerilabAI`](https://github.com/nazaa-arch/VerilabAI)
-- **Highlights**: Automated experimental data auditing, Bayesian 95% confidence bands for sensor calibration, AST static code analysis, and SHA-256 fingerprinted ISO PDF certificates.
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+</p>
+
+**Frameworks & UI**
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" alt="Three.js">
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white" alt="Leaflet">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit">
+</p>
+
+**AI, NLP & Data Science**
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter">
+</p>
+
+**DevOps, Databases & Design**
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma">
+</p>
+
+## 📊 Stats
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=190960433" target="_blank" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=190960433&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @nazaa-arch" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=190960433&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+[![committers.top badge](https://user-badge.committers.top/indonesia/nazaa-arch.svg)](https://user-badge.committers.top/indonesia/nazaa-arch)
 
 ---
 
-## 🏆 Academic & Applied Research Highlights
-
-- 🥈 **DIMAS TI Nasional**: Medali Perak Juara 2 & Finalis GEMASTIK XVIII Puspresnas (*"This Me" — BISINDO Sign Language Learning App*).
-- 📝 **NLP Transformers & Hybrid Stacking**: >88% Macro-F1 across 7 toxic/prosocial classes, 2 Journal Manuscripts in Preparation (Target SINTA 1 & Scopus Q2).
-- 📊 **Spatial Data Analysis**: Geographically Weighted Regression (GWR) modeling dengue distribution across 38 East Java regencies in R.
-- 📈 **BPS Field Surveyor**: Coordinated large-scale data collection of 1,050+ business entities.
-
----
-
-## 🛠️ Tech Stack & Tooling
-
-<div align="center">
-
-| Domain | Technologies |
-|---|---|
-| **Languages** | `Python`, `TypeScript`, `JavaScript`, `R`, `SQL`, `HTML5/CSS3` |
-| **Frameworks** | `React 19`, `Three.js`, `FastAPI`, `Pydantic v2`, `Vite`, `Tailwind CSS` |
-| **AI / Data Science** | `Scikit-Learn`, `PyTorch`, `HuggingFace`, `IndoBERTweet`, `GPR`, `Monte Carlo`, `GWR` |
-| **DevOps & Cloud** | `Docker`, `Cloudflare DNS`, `Render`, `cPanel LiteSpeed`, `GitHub Actions CI/CD` |
-| **Design & Prototyping** | `Figma (High-Fidelity)`, `UI/UX Design Systems` |
-
-</div>
-
----
-
-## 📬 Connect With Me
-
-- 🌐 **Portfolio**: [portofolionaza.steamcraft.online](https://portofolionaza.steamcraft.online)
-- 💼 **LinkedIn**: [linkedin.com/in/nazafirman](https://www.linkedin.com/in/nazafirman)
-- 📧 **Email**: [firmannaza307@gmail.com](mailto:firmannaza307@gmail.com)
+<p align="center">
+  <i>"Data-driven intelligence, reproducible engineering, and human-centered design."</i> ✨
+</p>
