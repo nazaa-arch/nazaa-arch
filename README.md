@@ -17,7 +17,7 @@
 
 - 🎓 Data Science student at **Universitas Negeri Surabaya (UNESA)** building end-to-end **AI pipelines, scientific tools, and full-stack web platforms**
 - 💻 Daily drivers: **Python, TypeScript/JavaScript, R, SQL** — shipping APIs with **FastAPI** and interactive UIs with **React + Vite**
-- 🥈 **DIMAS TI Nasional Silver Medalist (Juara 2)** & **GEMASTIK XVIII Finalist** (*"This Me"* — BISINDO Sign Language Learning App)
+- 🥈 **DIMAS TI Nasional Silver Medalist (Juara 2)** (*"This Me"* — BISINDO Sign Language Learning App)
 - 🔬 Researching **Indonesian NLP Transformers & Hybrid Stacking** (>88% Macro-F1 across 7 classes) and **Spatial Epidemiology (GWR)**
 - 📊 Coordinated field survey data collection of **1,050+ business entities** as a **BPS Field Surveyor**
 - 🌐 Lead architect of the [**STEAM-Craft Ecosystem**](https://steamcraft.online) & open-source packages for Indonesian NLP and supply-chain analytics
